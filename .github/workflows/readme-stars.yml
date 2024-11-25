@@ -16,7 +16,7 @@ jobs:
           userId: 3294296
           leaderboardId: 3289425
           sessionCookie: ${{ secrets.AOC_SESSION }}
-          year: 2023
+          year: 2024
       - uses: stefanzweifel/git-auto-commit-action@v5 # use v5
         with:
           commit_message: "refactor: update README.md with latest stars"
