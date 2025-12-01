@@ -1,7 +1,7 @@
 name: Update README ⭐
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Every 30 minutes
+    - cron: "0 * * * *" # Every hour
   workflow_dispatch:
 
 jobs:
@@ -14,9 +14,9 @@ jobs:
       - uses: k2bd/advent-readme-stars@v1
         with:
           userId: 3294296
-          leaderboardId: 3289425
+          leaderboardId: 3289466
           sessionCookie: ${{ secrets.AOC_SESSION }}
-          year: 2024
+          year: 2025
       - uses: stefanzweifel/git-auto-commit-action@v5 # use v5
         with:
           commit_message: "refactor: update README.md with latest stars"
