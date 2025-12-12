@@ -18,7 +18,7 @@ The table below will be updated regularly and automatically, however, solutions 
 | [Day 7](https://adventofcode.com/2025/day/7) | ⭐ | ⭐ |
 | [Day 9](https://adventofcode.com/2025/day/9) | ⭐ | ⭐ |
 | [Day 10](https://adventofcode.com/2025/day/10) | ⭐ | ⭐ |
-| [Day 11](https://adventofcode.com/2025/day/11) | ⭐ |   |
+| [Day 11](https://adventofcode.com/2025/day/11) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
 ## 2024 Results
